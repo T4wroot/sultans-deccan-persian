@@ -1,0 +1,21 @@
+# PDF files
+Sultans_of_Deccan_India_1500_1700.pdf
+pages_001_to_010.pdf
+test_*.pdf
+
+# HTML files (drafts)
+pages_001_to_010.html
+pages_001_to_010_responsive.html
+
+# Raw/Intermediate directories
+extracted_images/
+extracted_pages_clean/
+extracted_pages_pdfplumber/
+translated_pages/
+translated_pages_clean/
+__pycache__/
+
+# Log and json stats
+*.json
+page_020_raw.txt
+english_pages_1_to_10_pdfplumber.txt
